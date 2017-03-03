@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\CycleTimeAlarm\CycleTimeAlarm\bin\Debug\CycleTimeAlarm.exe.config
+C:\Users\Administrator\Desktop\CycleTimeAlarm\CycleTimeAlarm\bin\Debug\CycleTimeAlarm.exe
+C:\Users\Administrator\Desktop\CycleTimeAlarm\CycleTimeAlarm\bin\Debug\CycleTimeAlarm.pdb
+C:\Users\Administrator\Desktop\CycleTimeAlarm\CycleTimeAlarm\obj\Debug\CycleTimeAlarm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CycleTimeAlarm\CycleTimeAlarm\obj\Debug\CycleTimeAlarm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CycleTimeAlarm\CycleTimeAlarm\obj\Debug\CycleTimeAlarm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CycleTimeAlarm\CycleTimeAlarm\obj\Debug\CycleTimeAlarm.exe
+C:\Users\Administrator\Desktop\CycleTimeAlarm\CycleTimeAlarm\obj\Debug\CycleTimeAlarm.pdb
+C:\Users\Administrator\Desktop\CycleTimeAlarm\CycleTimeAlarm\obj\Debug\CycleTimeAlarm.TIMER.resources

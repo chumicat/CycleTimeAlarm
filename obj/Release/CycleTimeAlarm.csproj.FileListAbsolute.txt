@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\CycleTimeAlarm\CycleTimeAlarm\bin\Release\CycleTimeAlarm.exe.config
+C:\Users\Administrator\Desktop\CycleTimeAlarm\CycleTimeAlarm\bin\Release\CycleTimeAlarm.exe
+C:\Users\Administrator\Desktop\CycleTimeAlarm\CycleTimeAlarm\bin\Release\CycleTimeAlarm.pdb
+C:\Users\Administrator\Desktop\CycleTimeAlarm\CycleTimeAlarm\obj\Release\CycleTimeAlarm.TIMER.resources
+C:\Users\Administrator\Desktop\CycleTimeAlarm\CycleTimeAlarm\obj\Release\CycleTimeAlarm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CycleTimeAlarm\CycleTimeAlarm\obj\Release\CycleTimeAlarm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CycleTimeAlarm\CycleTimeAlarm\obj\Release\CycleTimeAlarm.exe
+C:\Users\Administrator\Desktop\CycleTimeAlarm\CycleTimeAlarm\obj\Release\CycleTimeAlarm.pdb
